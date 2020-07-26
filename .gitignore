@@ -8,4 +8,8 @@ tmp/*
 !tmp/.gitkeep
 !tmp/uploads/.gitkeep
 
+.env
+coverage/
+ormconfig.json
+
 yarn-error.log
